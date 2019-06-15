@@ -180,7 +180,13 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\css\resume.css" />
     <Content Include="Content\css\resume.min.css" />
-    <Content Include="Content\img\profile.jpg" />
+    <Content Include="Content\img\csharpicon.png" />
+    <Content Include="Content\img\dotneticon.png" />
+    <Content Include="Content\img\htmlicon.png" />
+    <Content Include="Content\img\javaicon.png" />
+    <Content Include="Content\img\profile.png" />
+    <Content Include="Content\img\pythonicon.png" />
+    <Content Include="Content\img\sqlicon.jpg" />
     <Content Include="Content\js\resume.js" />
     <Content Include="Content\js\resume.min.js" />
     <Content Include="Content\vendor\bootstrap\css\bootstrap-grid.css" />
@@ -248,6 +254,7 @@
     <Content Include="Content\vendor\fontawesome-free\webfonts\fa-solid-900.woff2" />
     <Content Include="Content\vendor\jquery\jquery.min.map" />
     <Content Include="Content\vendor\jquery\jquery.slim.min.map" />
+    <None Include="Properties\PublishProfiles\KeeganSheedyResume - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
